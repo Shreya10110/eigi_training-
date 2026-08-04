@@ -4,3 +4,11 @@ Complete authentication tasks:
   - User Login
   - Reset Password
   - List All Users
+
+4/8/2026 task2:
+FASTAPI
+  - User Signup
+  - User Login
+  - Reset Password
+
+
